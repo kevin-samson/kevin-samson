@@ -23,6 +23,8 @@
 <br />
 ---
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/kevin-samson/Flask-atm-website/pull/1) in [kevin-samson/Flask-atm-website](https://github.com/kevin-samson/Flask-atm-website)
+2. 💪 Opened PR [#1](https://github.com/kevin-samson/Flask-atm-website/pull/1) in [kevin-samson/Flask-atm-website](https://github.com/kevin-samson/Flask-atm-website)
 <!--END_SECTION:activity-->
 
 ---
