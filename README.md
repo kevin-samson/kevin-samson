@@ -37,6 +37,12 @@
 ![Kevin Samson GitHub stats](https://github-stats-kevin-samson.vercel.app/api/top-langs/?username=kevin-samson&layout=compact&theme=radical)
 </details>
 
+<details>
+  <summary>:zap: GitHub stats</summary>
+  
+![Kevin Samson GitHub stats](https://github-stats-kevin-samson.vercel.app/api/?username=kevin-samson&layout=compact&theme=radical)
+</details>
+
 [discord]: https://discord.gg/4KJMdAfm
 [twitter]: https://twitter.com/Kevin_Samson_
 [youtube]: https://www.youtube.com/channel/UCTcbFy6VJ1OgWuPEBa6RFLg
