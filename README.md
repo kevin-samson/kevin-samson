@@ -34,7 +34,7 @@
 <details>
   <summary>:zap: Most used language</summary>
   
-![Kevin Samson GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevin-samson&layout=compact&theme=radical)
+![Kevin Samson GitHub stats](https://github-stats-kevin-samson.vercel.app/api/top-langs/?username=kevin-samson&layout=compact&theme=radical)
 </details>
 
 [discord]: https://discord.gg/4KJMdAfm
