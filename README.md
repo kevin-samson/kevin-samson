@@ -1,7 +1,8 @@
 ### Hi there, I am Kevin <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kevin_Samson_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKevin_Samson_&screen_name=Kevin_Samson_)
-![Discord](https://img.shields.io/discord/724290569689628673?color=738ADB&label=discord&logo=discord&logoColor=%23738ADB&style=for-the-badge)
+
+[![Discord](https://img.shields.io/discord/724290569689628673?color=738ADB&label=discord&logo=discord&logoColor=%23738ADB&style=for-the-badge)](https://discord.gg/4KJMdAfm)
 
 ## 17 year old who loves to code
 
@@ -44,7 +45,7 @@
 ![Kevin Samson GitHub stats](https://github-stats-kevin-samson.vercel.app/api/?username=kevin-samson&layout=compact&theme=radical)
 </details>
 
-[discord]: https://discord.gg/4KJMdAfm
+[discord]: c
 [twitter]: https://twitter.com/Kevin_Samson_
 [youtube]: https://www.youtube.com/channel/UCTcbFy6VJ1OgWuPEBa6RFLg
 [linkedin]: https://www.linkedin.com/in/kevin-samson-9b5978155/
