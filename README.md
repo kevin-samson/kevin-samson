@@ -3,10 +3,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kevin_Samson_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKevin_Samson_&screen_name=Kevin_Samson_)
 [![Discord](https://img.shields.io/discord/724290569689628673?color=738ADB&label=discord&logo=discord&logoColor=%23738ADB&style=for-the-badge)](https://discord.gg/4KJMdAfm)
 
-## 17 year old who loves to code
+## 20 year old who loves to code
 
 - 🌱 I’m currently learning JavaScript 
-- 🥅 2021 Goals: Learn Machine learning 
+- 🥅 2023 Goals: Bulid an app using flutter 
 - ⚡ Fun fact: I love to make websites
 
 ### Spotify Playing 🎧
