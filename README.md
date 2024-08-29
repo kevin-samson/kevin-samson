@@ -20,13 +20,6 @@
 <br />
 <br />
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/kevin-samson/piano-tiles-AutoClicker/issues/1) in [kevin-samson/piano-tiles-AutoClicker](https://github.com/kevin-samson/piano-tiles-AutoClicker)
-2. 🎉 Merged PR [#1](https://github.com/kevin-samson/piano-tiles-AutoClicker/pull/1) in [kevin-samson/piano-tiles-AutoClicker](https://github.com/kevin-samson/piano-tiles-AutoClicker)
-<!--END_SECTION:activity-->
-
 ---
 
 <details>
