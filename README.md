@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kevin_Samson_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKevin_Samson_&screen_name=Kevin_Samson_)
 
 
-## 20 year old who loves to code
+## 21 year old who loves to code
 
 - 🌱 I’m currently learning JavaScript 
 - 🥅 2023 Goals: Bulid an app using flutter 
