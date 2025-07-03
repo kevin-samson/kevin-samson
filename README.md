@@ -6,7 +6,7 @@
 ## 21 year old who loves to code
 
 - 🌱 I’m currently learning JavaScript 
-- 🥅 2023 Goals: Bulid an app using flutter 
+- 🥅 2025 Goals: Bulid an app using flutter 
 - ⚡ Fun fact: I love to make websites
 
 
