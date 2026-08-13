@@ -14,7 +14,8 @@
 ![Kevin Samson GitHub stats](https://github-stats-kevin-samson.vercel.app/api/?username=kevin-samson&layout=compact&theme=radical)
 </details>
 
-[discord]: c
+<!--START_SECTION:activity-->
+
 [twitter]: https://twitter.com/Kevin_Samson_
 [youtube]: https://www.youtube.com/channel/UCTcbFy6VJ1OgWuPEBa6RFLg
 [linkedin]: https://www.linkedin.com/in/kevin-samson-9b5978155/
